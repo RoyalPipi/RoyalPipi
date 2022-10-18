@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoyalPipi
 - 👀 I’m interested in TecHnology, politics, social works and community development.
-- 🌱 I’m currently learning Computer software engineering and Business ethics.
+- 🌱 I’m currently learning Computer software engineering at ALX Software Engineering program. 
 - 💞️ I’m looking to collaborate on learning and building a data security software.
 - 📫 I can be reached via email on royalpipi77@gmail.com.  
 
